@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ManuMelva
+- 👀 I’m interested in develop myself at my fullest with new challenges
+- 🌱 I’m currently learning Software Engineering and chasing new languages
+- 🚀 If you read until here, enjoy my repository
