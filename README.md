@@ -6,8 +6,6 @@
   
 - 👀 I’m interested in develop myself at my fullest with new challenges
   
-- 🌱 I’m currently learning Software Engineering and working at [BRdata Tecnologia](https://www.linkedin.com/company/sga-tecnologia-ltda)
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
