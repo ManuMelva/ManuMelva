@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Emmanuel Silva</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManuMelva&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 Junior Back-End Developer that is focus on always learning
+- 🔭 Back-End Developer that is focus on always learning
   
 - 👀 I’m interested in develop myself at my fullest with new challenges
   
