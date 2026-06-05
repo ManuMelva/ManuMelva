@@ -1,69 +1,65 @@
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="left" valign="top" width="65%">
-      <h1>Hi 👋, I'm Emmanuel Silva</h1>
-      <h3>Software Engineer & Back-End Developer</h3>
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=ManuMelva&color=007ACC&style=flat-square" alt="Profile views" />
-      </p>
-    </td>
-    <td align="right" valign="top" width="35%">
-      <!-- Dynamic Programming Meme Image -->
-      <img width="100%" style="max-width: 320px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQwc2Zmc2Zhamd6OXhwOHV1ZGx4cGJucmZ3MWw0ZDNlZGp0dGhwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" alt="Coding Meme"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Emmanuel+Silva;Back-End+Engineer+%7C+.NET+%7C+Node.js;Building+robust+APIs+%26+Microservices)
+
+</div>
 
 ---
 
 ### 👨🏻‍💻 About Me
 
-- 🎓 **Background:** Graduated with a Bachelor's Degree in **Software Engineering**.
-- 🔭 **Current Focus:** Advanced Back-End architecture, robust Web APIs, and microservices ecosystem performance.
-- 🤔 **Exploring:** Agentic AI workflow automations, cloud architectures, and modern development paradigms.
-- 🌱 **Ecosystem Passion:** Constantly designing and building efficient systems with C#, .NET, Node.js, and modern tools.
-- ☕ **Logic:** `coffee == 'perfectly brewed' ? mood = 'boosted' : '!boosted'`
+| | |
+|---|---|
+| 🎓 | Bachelor's Degree in **Software Engineering** |
+| 🔭 | Advanced Back-End architecture, Web APIs, and microservices |
+| 🤖 | Exploring Agentic AI workflows and cloud architectures |
+| 🌱 | Designing efficient systems with C#, .NET, and Node.js |
+| ☕ | `coffee === 'perfectly brewed' ? mood = 'boosted' : '!boosted'` |
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Tech Stack
 
-<div align="left">
-  <!-- Back-End & Logic -->
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,react,js" height="40" alt="Backend Stack" />
-  <img width="12" />
-  
-  <!-- Databases & Systems -->
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres,sqlite" height="40" alt="Databases" />
-  <img width="12" />
-  
-  <!-- Development Tools & OS -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="40" alt="Tools and Environment" />
-  <img width="12" />
+**Back-End & Logic**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare" height="40" alt="Cloud" />
-</div>
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Cloud & Infra**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+**Front-End**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
-### 📊 Contribution Activity & Streak Graph
+### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Modern Contribution Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManuMelva&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="Emmanuel's Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManuMelva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuMelva&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 </p>
 
 <p align="center">
-  <!-- GitHub Streak Stats Box -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuMelva&theme=dark&background=0d1117&hide_border=true" width="100%" alt="Emmanuel's Coding Streak" />
+  <img src="https://streak-stats.demolab.com?user=ManuMelva&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManuMelva&theme=github-compact&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
 
 ### 🤝 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/emmanuel-silva-melo/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="45" alt="LinkedIn" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-silva-melo/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManuMelva)
